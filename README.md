@@ -1,2 +1,3 @@
 # sample-exercise
-Just a training
+
+Just a training for akash
